@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Dayoung1231/Dayoung1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+● 👋 Hi, I'm @Dayoung1231
+● 🌱 I'm currently majoring in software at Gachon University.
+● 📫 How to reach me : hdy1231hdy@naver.com
